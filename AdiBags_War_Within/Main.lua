@@ -2,7 +2,7 @@
 
 	The MIT License (MIT)
 
-	Copyright (c) 2023 Lucas Vienna (Avyiel) <dev@lucasvienna.dev>
+	Copyright (c) 2023 Lucas Vienna (Avyiel) <addons@avyiel.dev>
 
 	Permission is hereby granted, free of charge, to any person obtaining a copy
 	of this software and associated documentation files (the "Software"), to deal
